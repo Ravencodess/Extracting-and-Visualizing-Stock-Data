@@ -11,7 +11,6 @@ Data analysis is a crucial aspect of data science, enabling individuals to make 
 - [Dependencies](#dependencies)
 - [Data Sources](#data-sources)
 - [Features](#features)
-- [Examples](#examples)
 - [Contributing](#contributing)
 
 ## Installation
@@ -36,18 +35,18 @@ yfinance: Yahoo Finance API for stock data
 requests: Library for making HTTP requests
 matplotlib: Data visualization library
 
-Data Sources
+## Data Sources
 The project utilizes data from the following sources:
 
 Yahoo Finance: Stock data source
 
-Features
+## Features
 Data extraction from Tesla and GameStop stock data
 Visualization of stock history and revenue trends
 Customizable parameters for analysis
 
 
-Contributing
+## Contributing
 Fork the repository
 Create a new branch (git checkout -b feature/new-feature)
 Commit your changes (git commit -am 'Add new feature')
