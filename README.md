@@ -19,14 +19,14 @@ Data analysis is a crucial aspect of data science, enabling individuals to make 
 Ensure you have Python installed on your machine. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required libraries:
 
 ```bash
-pip install pandas yfinance requests matplotlib
+pip install pandas yfinance requests matplotlib jupyter-notebook
 ```
 
 ## Usage
 Execute the main script to perform data extraction and visualization:
 
 ```bash
-python main.py
+jupyter-notebook
 ```
 
 ## Dependencies
