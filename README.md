@@ -11,6 +11,7 @@ Data analysis is a crucial aspect of data science, enabling individuals to make 
 - [Dependencies](#dependencies)
 - [Data Sources](#data-sources)
 - [Features](#features)
+- [Examples](#examples)
 - [Contributing](#contributing)
 
 ## Installation
@@ -44,6 +45,16 @@ Yahoo Finance: Stock data source
 Data extraction from Tesla and GameStop stock data
 Visualization of stock history and revenue trends
 Customizable parameters for analysis
+
+## Examples
+## Examples
+
+![Stock History Visualization](screenshots/stock_history.png)
+*Caption: Description of the stock history visualization.*
+
+![Revenue Trends](screenshots/revenue_trends.png)
+*Caption: Description of the revenue trends visualization.*
+
 
 
 ## Contributing
