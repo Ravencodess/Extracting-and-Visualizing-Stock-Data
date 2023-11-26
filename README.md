@@ -31,7 +31,7 @@ jupyter-notebook
 
 ## Dependencies
 
-pandas: Data manipulation library
+Pandas: Data manipulation library
 yfinance: Yahoo Finance API for stock data
 requests: Library for making HTTP requests
 matplotlib: Data visualization library
