@@ -20,11 +20,14 @@ Ensure you have Python installed on your machine. Use the package manager [pip](
 
 ```bash
 pip install pandas yfinance requests matplotlib
+```
 
 ## Usage
 Execute the main script to perform data extraction and visualization:
 
+```bash
 python main.py
+```
 
 ## Dependencies
 
